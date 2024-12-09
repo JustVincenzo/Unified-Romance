@@ -27,5 +27,5 @@ This project is in its early stages and is seeking contributors. If you are inte
 ## Actual state
 - Language Type: International Auxiliary Language (IAL)
 - Speakers: Not registered
-- Language Status: New
+- Language Status: Standby
 - Predecessor: [Neo-Romance](https://conworkshop.com/view_language.php?l=NEOR)
